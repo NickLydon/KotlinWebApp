@@ -1,0 +1,19 @@
+= Contact API
+Kreuzwerker Author;
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:sectnums:
+
+== Intro
+
+=== Request
+include::{snippets}/ministries/curl-request.adoc[]
+
+include::{snippets}/ministries/http-request.adoc[]
+
+=== Response
+include::{snippets}/ministries/response-body.adoc[]
+
+include::{snippets}/ministries/http-response.adoc[]
